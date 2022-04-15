@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/coredns:1.6.5
+FROM k8s.gcr.io/coredns:v1.8.6
 MAINTAINER heqingbao <qingbao.ho@gmail.com>
